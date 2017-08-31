@@ -6,4 +6,8 @@ public class anotherfeature {
 		System.out.println("Another feature added.");
 	}
 
+	public void hotfixfeature() {
+		System.out.println("This is a hotfix.");
+	}
+
 }
